@@ -40,7 +40,7 @@ This Is is Tool For Checkout Status Of Urls in Mass Its For Bug Bounty Hunters A
 >To Check Mass Url Status Code
 
 # Main Proxy-me Image
-![](Screenshot_20220615_000727.png)
+![](Screenshot_20220623_175955.png)
 # Installation :
 > clone via git clone
 
