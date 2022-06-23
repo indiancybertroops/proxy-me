@@ -4,6 +4,10 @@ It is a lightweight project that hourly scrapes lots of free-proxy,
 FREE proxies. Supported platforms: Windows, Linux, MacOS, Termux
 This Is is Tool For Checkout Status Of Urls in Mass Its For Bug Bounty Hunters And Black Hat Hackers It Will Save Your Valuable Time  Script is Designed By Indian Cyber Troops
 
+## Run As Root Cuz It Includes Auto Package Install Function
+it includes package Lynx And other Libs So Start With Root Permission else it dont ask for permission :) 
+Don't Worry Tool is 100% safe as designed By Indian Cyber Troops with your Trust
+
 ## Designed By : Krishanu Sharma | Vivek
 <p>
  <a href="https://www.youtube.com/c/indiancybertroops">
@@ -28,6 +32,8 @@ This Is is Tool For Checkout Status Of Urls in Mass Its For Bug Bounty Hunters A
 >Easy to Install
 
 >Easy to Use
+
+>Auto package Install
 
 >Designed In Bash(shell scripting)
 
