@@ -4,6 +4,8 @@ It is a lightweight project that hourly scrapes lots of free-proxy,
 FREE proxies. Supported platforms: Windows, Linux, MacOS, Termux
 This Is is Tool For Checkout Status Of Urls in Mass Its For Bug Bounty Hunters And Black Hat Hackers It Will Save Your Valuable Time  Script is Designed By Indian Cyber Troops
 
+# Added V2.0 to use that execute proxy-meV2.0.sh file
+
 ## Run As Root Cuz It Includes Auto Package Install Function
 it includes package Lynx And other Libs So Start With Root Permission else it dont ask for permission :) 
 Don't Worry Tool is 100% safe as designed By Indian Cyber Troops with your Trust
